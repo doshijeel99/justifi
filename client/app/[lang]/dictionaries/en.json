@@ -1,0 +1,96 @@
+{
+  "breadcrumb": {
+    "games": "Games",
+    "user": "User",
+    "overview": "Overview",
+    "recent": "Recent Activities",
+    "pathway": "Law RoadMap",
+    "settings": "Settings",
+    "profile": "Profile",
+    "chatbot": "Chatbot",
+    "news": "News & Insights",
+    "cb": "Bot",
+    "ps": "Person",
+    "docs": "Legal Documents",
+    "service": "Legal Services",
+    "maps": "Areas of Legal Clinics",
+    "reports": "Legal Analytics"
+  },
+  "reports": {
+    "title": "Legal Document Analysis"
+  },
+  "voice": {
+    "start_listening": "Start listening",
+    "stop_listening": "Stop listening",
+    "listening": "Listening",
+    "you_said": "You said",
+    "error_processing": "Error processing command"
+  },
+  "home": {
+    "signIn": "Log In",
+    "signUp": "Sign In",
+    "goToDash": "Go To Dashboard"
+  },
+  "sidebar": {
+    "dashboard": "Dashboard",
+    "games": "Games",
+    "user": "User",
+    "overview": "Overview",
+    "reports": "Reports",
+    "services": "Services",
+    "pathway": "Pathway",
+    "legal-docs": "Legal Documents",
+    "settings": "Settings",
+    "maps": "Maps",
+    "chatbot": "Chatbot",
+    "news": "News & Insights",
+    "cb": "Bot",
+    "ps": "Person"
+  },
+  "chatbot": {
+    "title": "amigo.ai",
+    "desc": "Ask your doubts to our personalized chatbot",
+    "ask": "Ask",
+    "placeholder": "Type your message...",
+    "chatbot": "Chatbot",
+    "person": "Person",
+    "idle": "Idle",
+    "think": "Thinking...",
+    "suite": "Suite",
+    "thumbsup": "Thumbs Up"
+  },
+  "news": {
+    "all": "All",
+    "cognitive": "Cognitive Development",
+    "motor": "Motor Skills",
+    "emotional": "Emotional Well-being",
+    "social": "Social Interaction",
+    "skills": "Skills Training",
+    "loading": "Loading news...",
+    "search_placeholder": "Search news..."
+  },
+  "game": {
+    "trending": "Trending",
+    "votes": "votes",
+    "online": "Online",
+    "visits": "Visits",
+    "play": "Play Game"
+  },
+  "universe": {
+    "avatar": "Avatar Builder",
+    "avatar_desc": "Create and customize your unique digital identity in the law4all Universe",
+    "start": "Start Building",
+    "learn_more": "Learn More",
+    "law4all": "law4all Universe",
+    "law4all_desc": "Explore and collaborate with others in the law4all Universe",
+    "exploring": "Start Exploring"
+  },
+  "legaldocs":{
+    "title": "Document Search",
+    "desc": "Enter a document name to search in our legal document library",
+    "textbox": "Search for a document...",
+    "search": "Search",
+    "desc1": "Enter a document name above to search in our legal document library",
+    "desc2": "Try searching for common legal documents like adoption-deed, power-of-attorney, etc."
+  }
+}
